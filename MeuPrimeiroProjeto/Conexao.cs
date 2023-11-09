@@ -14,7 +14,7 @@ namespace MeuProjetoInicial {
             // variável contendo a ConnectionString
             var connectionStringCRM = @"AuthType=OAuth;
                                      Username = 202304067317@alunos.estacio.br;
-                                     Password = Tec767821@; SkipDiscovery = True;
+                                     Password = **********; SkipDiscovery = True;
                                      AppId = 51f81489-12ee-4a9e-aaae-a2591f45987d;
                                      RedirectUri = app://58145B91-0C36-4500-8554-080854F2AC97;
                                      Url = https://org14dcc1da.crm2.dynamics.com/main.aspx;";
